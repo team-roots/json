@@ -1,27 +1,27 @@
 [
   {
-    "category": "public",
+    "category": "museum",
     "name": "横浜美術館",
     "service": "障がい者手帳をお持ちの方と介護の方1名は、展覧会観覧料金が無料",
     "url": "https://yokohama.art.museum/",
     "area": "みなとみらい"
   },
   {
-    "category": "entertainment",
+    "category": "museum",
     "name": "三菱みなとみらい技術館",
     "service": "障害者の方とお付添いの方1名は無料",
     "url": "https://www.mhi.com/jp/expertise/museum/minatomirai/",
     "area": "みなとみらい"
   },
   {
-    "category": "entertainment",
+    "category": "museum",
     "name": "帆船日本丸　横浜みなと博物館",
     "service": "入館　全額免除　介助者は被介助者1人につき１人",
     "url": "https://www.nippon-maru.or.jp/",
     "area": "みなとみらい"
   },
   {
-    "category": "entertainment",
+    "category": "museum",
     "name": "原鉄道模型博物館",
     "service": "入館料1000円　本人と付き添い(1名)300円割引",
     "url": "http://www.hara-mrm.com/",
@@ -49,7 +49,7 @@
     "area": "みなとみらい"
   },
   {
-    "category": "entertainment",
+    "category": "museum",
     "name": "横浜アンパンマンこどもミュージアム",
     "service": "本人とつきそいの方1名様まで半額（＝1100）",
     "url": "https://www.yokohama-anpanman.jp/",
@@ -70,7 +70,7 @@
     "area": "みなとみらい"
   },
   {
-    "category": "entertainment",
+    "category": "museum",
     "name": "カップヌードルミュージアム横浜",
     "service": "入館料500円が400円本人と付添１名",
     "url": "https://www.cupnoodles-museum.jp/ja/yokohama/",
